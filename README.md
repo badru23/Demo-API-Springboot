@@ -12,7 +12,7 @@
 - <b>Spring Data JPA</b> : adalah sebuah library / dependency yang  berguna untuk membuat fungsi CRUD dasar yang memudahkan kita membangun aplikasi. dengan menggunakan library ini kita dapat membuat sebuah query atau costum query dengan sangat mudah.
 - <b>Spring Starter Validation</b> : adalah sebuah library / dependency yang  berguna untuk menangkap data data yang tidak valid bahkan missing. dan memberikan informasi kepada pengguna.
 - <b>Spring Starter Web</b> : adalah sebuah library / dependency yang  berguna untuk membangun website, RESTful, dan Aplikasi menggunakan Spring MVC. Spring Boot Starter Web menggunakan Tomcat sebagai container embedded
-- <b>Spring Devtols</b> : adalah sebuah library / dependency yang  berguna untuk mempermudah programmer untuk mendevelop apliasi.
+- <b>Spring Devtols</b> : adalah sebuah library / dependency yang  berguna untuk mempermudah programmer untuk mendevelop aplikasi.
 - <b>MySQL Driver</b> : adalah sebuah library / dependency yang  berguna untuk Connecting Spring Boot dengan Database.
 - <b>Swagger Springfox</b> : adalah sebuah library / dependency yang berguna untuk mendokumentasikan spesifikasi untuk API .dengan menyediakan pustaka untuk mengintegrasikan UI Swagger untuk berinteraksi dengan API. untuk membuat tampilan swagger kita perlu mengkonfigurasi nya terlebih dahulu.
 
